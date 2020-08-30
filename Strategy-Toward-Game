@@ -1,1 +1,16 @@
 Here I just State Three Strategies I tested in my Code.
+
+For the Random strategy, I just let everyone to pick randomly 50 cards.
+
+For the split strategy, I let the odd-numbered people to pick the first 50 cards, and the even-numbered people to pick the last 50 cards.
+
+For the jumping strategy, I let : {
+            We assume people numbered A,
+            Then he first goes to A th cards and open it. 
+            if this is A, then we are done,
+            if this is not A, but B ? Then he goes to B,
+            
+            This is a loop until we finally find A
+
+
+                                  }
